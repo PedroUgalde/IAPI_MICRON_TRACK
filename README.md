@@ -29,7 +29,16 @@ Numpy is already installed in your Python Distribution, but if you want to verif
 pip install numpy
 ```
 
-## Realizaron
+## What you can find?
+
+Hackathon DB Final 04.21.xlsx .- Micron provided database
+PuLP-IAPI-Model.py .- PuLP implementation for sells-production optimization.
+IAPI-ARIMA-Model.py .- Our ARIMA Prediction Model implementation. Note: This model is for scalability.
+
+
+
+
+## Collaborators
 
 - Pedro Ugalde - Programmer
 - Itziar Segura - Team leader
