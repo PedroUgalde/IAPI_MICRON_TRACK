@@ -36,7 +36,9 @@ pip install numpy
 - IAPI-ARIMA-Model.py .- Our ARIMA Prediction Model implementation. Note: This model is for scalability.
 
 
+## Link
 
+https://colab.research.google.com/drive/1t5gqx17FsZkx54DtkGes5-fU0bENut_t?usp=sharing
 
 ## Collaborators
 
